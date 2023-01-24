@@ -75,5 +75,3 @@
 ## Token Details
 
 - Access Token = access token is a JWT signed token which will be used for all apis in application it has expiry time of 24 hrs.
-# node-graphql
-# Graphql-Node
